@@ -2,7 +2,7 @@
 layout: page
 title: PharmacoGx 
 description: An R package to work with in vitro Pharmacogenomics Data.
-img: assets/img/12.jpg
+img: assets/img/PharmacoGx.png
 importance: 1
 category: R 
 ---
