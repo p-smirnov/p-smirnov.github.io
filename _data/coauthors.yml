@@ -5,3 +5,11 @@
 "Pugh":
   - firstname: ["Trevor", "T.J.", "Trevor J.", "Trevor J"]
     url: https://www.pughlab.org
+
+"Mer":
+  - firstname: ["Arvind", "Arvind S", "Arvind Singh", "Arvind S.", "A. S."]
+    url: https://merlab.github.io
+
+"Adam":
+  - firstname: ["George", "George A", "G.", "G. A.", "George-Alexandru", "George A."]
+    url: https://alexadam.ca
