@@ -14,5 +14,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A PhD candidate in computational biology at the Univeristy of Toronto. I apply machine learning to answer biological questions, ask how statistical methods adapt to biological, and develop R packages.
+A PhD candidate in computational biology at the Univeristy of Toronto. I apply machine learning to answer biological questions, ask how statistical methods adapt to biological data, and develop R packages.
 
